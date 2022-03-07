@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **lovelysharmaas0812@gmail.com**
 
+- :man_technologist: My recent project - **[URL Shortner](https://urlshortnerlovely.herokuapp.com/)**
+
 
 ## 🚀 Languages and Tools that I'm familiar with:
 
