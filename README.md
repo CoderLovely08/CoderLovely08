@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lovelysharmaas0812@gmail.com**
 
-- :man_technologist: My recent project - **[Footwear Website](https://coderlovely08.github.io/Shoe-website/)**
+- :man_technologist: My recent project - **[CRUD App Built with different frameworks Website](https://php-crud-lovely.herokuapp.com/)**
 
 
 ## 🚀 Languages and Tools that I'm familiar with:
