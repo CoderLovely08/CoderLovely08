@@ -49,11 +49,10 @@
 <br/>
 <br/>
 
+
 ## 🌐 Socials:
-<p align="left">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lovely_sharma0812) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lovely-sharma-a54022214) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/lovely-sharma) 
 
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/CoderLovely08/github-profile-views-counter">
