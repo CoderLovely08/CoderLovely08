@@ -6,16 +6,16 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m an Engineeing Student
-- 🌱 I’m currently learning **React & Express framework**
+- 🔭 I’m a Final Year Engineeing Student (CSE)
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I like contributing to **OpenSource Projects**
 
 - 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
 
-- 📫 How to reach me **lovelysharmaas0812@gmail.com**
+- 📫 How to reach me **lovelycodes08@gmail.com**
 
-- :man_technologist: My recent project - **[A Home Plants Wikipedia - The GreenYard](https://greenyard.onrender.com/)**
+- :man_technologist: My recent project - **[Coaching Institute Website](https://tie-academy.vercel.app/)**
 
 
 ## 🚀 Languages and Tools that I'm familiar with:
