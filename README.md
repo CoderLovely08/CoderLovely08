@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m a Final Year Engineeing Student (CSE)
-- 🌱 I’m currently into **BLE App Development**
+- 🌱 I’m currently into **IOT App Development**
 - 🏢 Software Intern at **Onivart Labs**
 
 - 👯 I like contributing to **OpenSource Projects**
