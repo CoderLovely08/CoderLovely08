@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/CoderLovely08/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lilesh Bawane's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderLovely08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lovely Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderLovely08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -41,8 +41,8 @@
   <br/>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderlovely08" alt="coderlovely08" /></a> </p>
   <br/>
-    <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="lilesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderLovely08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="lilesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderLovely08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="Lovely's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderLovely08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/CoderLovely08/github-readme-stats"><img alt="Lovely's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderLovely08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
