@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Final Year Engineeing Student (CSE)
+- 🔭 I’m a B.Tech CSE Graduate
 - 🌱 I’m currently into **IOT App Development**
-- 🏢 Software Intern at **Onivart Labs**
+- 🏢 Software Engineer at **Onivart Labs**
 
-- 👯 I like contributing to **OpenSource Projects**
+- 👯 I like building realworld solutions
 
 - 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
 
