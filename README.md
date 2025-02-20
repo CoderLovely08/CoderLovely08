@@ -31,9 +31,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/CoderLovely08/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lovely Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderLovely08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CoderLovely08" alt="GitHub Streak" /></a>
 </p>
 
 ## 📊 My Github Stats
