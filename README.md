@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **lovelycodes08@gmail.com**
 
-- :man_technologist: My recent project - **[Student Tutoring Platform](https://tutor-verse-bf8239c97f1d.herokuapp.com/)**
+- :man_technologist: My Recent Project - **[Student Tutoring Platform](https://tutor-verse-bf8239c97f1d.herokuapp.com/)**
 
 
 ## 🚀 Languages and Tools that I'm familiar with:
