@@ -10,7 +10,7 @@
 - 🌱 I’m currently into **IOT App Development**
 - 🏢 Software Engineer at **Onivart Labs**
 
-- 👯 I like building realworld solutions
+- 🤖 I like building realworld solutions
 
 - 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
 
