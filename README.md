@@ -12,7 +12,7 @@
 
 - 🤖 I like building realworld solutions
 
-- 👨‍💻 Visit **[My Profile](https://github.com/CoderLovely08)**
+- 👨‍💻 Visit **[My Portfolio](https://lovelycodes.vercel.app/)**
 
 - 📫 How to reach me **lovelycodes08@gmail.com**
 
