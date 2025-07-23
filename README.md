@@ -7,14 +7,13 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m a B.Tech CSE Graduate
-- 🌱 I’m currently into **IOT App Development**
-- 🏢 Software Engineer at **Onivart Labs**
+- 🏢 Full Stack Engineer at **Onivart Labs**
 
 - 🤖 I like building realworld solutions
 
 - 👨‍💻 Visit **[My Portfolio](https://lovelycodes.vercel.app/)**
 
-- 📫 How to reach me **lovelycodes08@gmail.com**
+- 📫 How to reach me **lovelysharmaas0812@gmail.com**
 
 
 ## 🚀 Languages and Tools that I'm familiar with:
